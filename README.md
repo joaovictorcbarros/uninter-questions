@@ -10,7 +10,7 @@ Banco de questões e simulados do curso de Análise e Desenvolvimento de Sistema
 - Clone o repositório: `git clone https://github.com/samuelnovaes/uninter-questions.git`
 - Acesse o diretório: `cd ./uninter-questions`
 - Instale as dependências: `npm ci`
-- Inicie em modo desenvolvimento: `npm start`
+- Inicie em modo desenvolvimento: `npm run dev`
 
 ## Como contribuir
 
